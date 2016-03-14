@@ -1,0 +1,23 @@
+{
+  "name": "prep-api",
+  "version": "1.0.0",
+  "description": "a simple API to power the prep-prototype Ember web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apfister/prep-api.git"
+  },
+  "author": "Adam Pfister",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apfister/prep-api/issues"
+  },
+  "homepage": "https://github.com/apfister/prep-api#readme",
+  "dependencies": {
+    "cors": "^2.7.1",
+    "express": "^4.13.4"
+  }
+}

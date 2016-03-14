@@ -1,0 +1,74 @@
+[
+  {
+    "id" : "chicago",
+    "type" : "dashboard",
+    "attributes" : {
+      "title": "Chicago",
+      "indicators":[
+        {
+          "x": 0,
+          "y": 0,
+          "height": 8,
+          "width": 7,
+          "component": {
+            "name": "placeholder-card"
+          }
+        },
+        {
+          "x": 7,
+          "y": 0,
+          "height": 4,
+          "width": 5,
+          "component": {
+            "name": "placeholder-card"
+          }
+        },
+        {
+          "x": 7,
+          "y": 4,
+          "height": 4,
+          "width": 5,
+          "component": {
+            "name": "placeholder-card"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id" : "newyork",
+    "type" : "dashboard",
+    "attributes" : {
+      "title": "New York",
+      "indicators":[
+        {
+          "x": 0,
+          "y": 0,
+          "height": 8,
+          "width": 7,
+          "component": {
+            "name": "placeholder-card"
+          }
+        },
+        {
+          "x": 7,
+          "y": 0,
+          "height": 4,
+          "width": 5,
+          "component": {
+            "name": "placeholder-card"
+          }
+        },
+        {
+          "x": 7,
+          "y": 4,
+          "height": 4,
+          "width": 5,
+          "component": {
+            "name": "placeholder-card"
+          }
+        }
+      ]
+    }
+  }
+]
